@@ -1,0 +1,8 @@
+./jmeter.sh -t /media/marcos/LOCAL01/estudos/JMeter/testar_performance.jmx
+./jmeter.sh -n -t /media/marcos/LOCAL01/estudos/JMeter/testar_performance.jmx
+./jmeter.sh -n -t /media/marcos/LOCAL01/estudos/JMeter/testar_performance.jmx -l /media/marcos/LOCAL01/estudos/JMeter/result.jtl
+./jmeter.sh -g /media/marcos/LOCAL01/estudos/JMeter/result.jtl -o /media/marcos/LOCAL01/estudos/JMeter/nossoDash
+./jmeter.sh -n -t /media/marcos/LOCAL01/estudos/JMeter/testar_performance.jmx -l /media/marcos/LOCAL01/estudos/JMeter/resultado.jtl -e -o /media/marcos/LOCAL01/estudos/JMeter/dashboardResult
+
+
+

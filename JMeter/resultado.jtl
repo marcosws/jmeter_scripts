@@ -1,0 +1,71 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1738017363722,570,www.correios.com.br,200,OK,Grupo de Usuários 1-3,text,true,,137031,122,8,8,https://www.correios.com.br/,418,0,214
+1738017363566,833,www.correios.com.br,200,OK,Grupo de Usuários 1-1,text,true,,137029,122,9,9,https://www.correios.com.br/,561,0,371
+1738017363823,577,www.correios.com.br,200,OK,Grupo de Usuários 1-4,text,true,,137031,122,9,9,https://www.correios.com.br/,371,0,187
+1738017363924,521,www.correios.com.br,200,OK,Grupo de Usuários 1-5,text,true,,138313,122,10,10,https://www.correios.com.br/,363,0,262
+1738017364022,507,www.correios.com.br,200,OK,Grupo de Usuários 1-6,text,true,,137029,122,10,10,https://www.correios.com.br/,272,0,209
+1738017364123,406,www.correios.com.br,200,OK,Grupo de Usuários 1-7,text,true,,137031,122,10,10,https://www.correios.com.br/,211,0,139
+1738017364222,453,www.correios.com.br,200,OK,Grupo de Usuários 1-8,text,true,,137031,122,10,10,https://www.correios.com.br/,225,0,160
+1738017364295,516,www.fazenda.gov.br,200,OK,Grupo de Usuários 1-3,text,true,,241220,266,10,10,https://www.gov.br/receitafederal/pt-br,117,0,87
+1738017364295,117,www.fazenda.gov.br-0,302,Moved Temporarily,Grupo de Usuários 1-3,,true,,143,133,10,10,http://www.gov.br/receitafederal/pt-br,117,0,87
+1738017364415,396,www.fazenda.gov.br-1,200,OK,Grupo de Usuários 1-3,text,true,,241077,133,10,10,https://www.gov.br/receitafederal/pt-br,187,0,110
+1738017364423,422,www.correios.com.br,200,OK,Grupo de Usuários 1-10,text,true,,138313,122,10,10,https://www.correios.com.br/,213,0,119
+1738017363623,1281,www.correios.com.br,200,OK,Grupo de Usuários 1-2,text,true,,137031,122,10,10,https://www.correios.com.br/,504,0,314
+1738017364812,100,www.gov.br,200,OK,Grupo de Usuários 1-3,text,true,,131614,231,10,10,https://www.gov.br/pt-br,35,0,0
+1738017364812,35,www.gov.br-0,301,Moved Permanently,Grupo de Usuários 1-3,,true,,993,113,10,10,https://www.gov.br/,35,0,0
+1738017364847,65,www.gov.br-1,200,OK,Grupo de Usuários 1-3,text,true,,130621,118,10,10,https://www.gov.br/pt-br,31,0,0
+1738017364530,407,www.fazenda.gov.br,200,OK,Grupo de Usuários 1-7,text,true,,241227,266,9,9,https://www.gov.br/receitafederal/pt-br,103,0,62
+1738017364530,103,www.fazenda.gov.br-0,302,Moved Temporarily,Grupo de Usuários 1-7,,true,,143,133,9,9,http://www.gov.br/receitafederal/pt-br,103,0,62
+1738017364634,303,www.fazenda.gov.br-1,200,OK,Grupo de Usuários 1-7,text,true,,241084,133,9,9,https://www.gov.br/receitafederal/pt-br,118,0,88
+1738017364401,649,www.fazenda.gov.br,200,OK,Grupo de Usuários 1-1,text,true,,241221,266,9,9,https://www.gov.br/receitafederal/pt-br,96,0,50
+1738017364401,96,www.fazenda.gov.br-0,302,Moved Temporarily,Grupo de Usuários 1-1,,true,,143,133,9,9,http://www.gov.br/receitafederal/pt-br,96,0,50
+1738017364499,551,www.fazenda.gov.br-1,200,OK,Grupo de Usuários 1-1,text,true,,241078,133,9,9,https://www.gov.br/receitafederal/pt-br,146,0,111
+1738017364402,681,www.fazenda.gov.br,200,OK,Grupo de Usuários 1-4,text,true,,241227,266,9,9,https://www.gov.br/receitafederal/pt-br,330,0,49
+1738017364402,330,www.fazenda.gov.br-0,302,Moved Temporarily,Grupo de Usuários 1-4,,true,,143,133,9,9,http://www.gov.br/receitafederal/pt-br,330,0,49
+1738017364733,350,www.fazenda.gov.br-1,200,OK,Grupo de Usuários 1-4,text,true,,241084,133,9,9,https://www.gov.br/receitafederal/pt-br,145,0,114
+1738017364678,409,www.fazenda.gov.br,200,OK,Grupo de Usuários 1-8,text,true,,241220,266,9,9,https://www.gov.br/receitafederal/pt-br,70,0,37
+1738017364678,70,www.fazenda.gov.br-0,302,Moved Temporarily,Grupo de Usuários 1-8,,true,,143,133,9,9,http://www.gov.br/receitafederal/pt-br,70,0,37
+1738017364750,337,www.fazenda.gov.br-1,200,OK,Grupo de Usuários 1-8,text,true,,241077,133,9,9,https://www.gov.br/receitafederal/pt-br,148,0,110
+1738017364939,176,www.gov.br,200,OK,Grupo de Usuários 1-7,text,true,,131614,231,9,9,https://www.gov.br/pt-br,42,0,0
+1738017364939,42,www.gov.br-0,301,Moved Permanently,Grupo de Usuários 1-7,,true,,993,113,9,9,https://www.gov.br/,42,0,0
+1738017364981,134,www.gov.br-1,200,OK,Grupo de Usuários 1-7,text,true,,130621,118,9,9,https://www.gov.br/pt-br,63,0,0
+1738017364906,414,www.fazenda.gov.br,200,OK,Grupo de Usuários 1-2,text,true,,241227,266,8,8,https://www.gov.br/receitafederal/pt-br,69,0,32
+1738017364906,69,www.fazenda.gov.br-0,302,Moved Temporarily,Grupo de Usuários 1-2,,true,,143,133,8,8,http://www.gov.br/receitafederal/pt-br,69,0,32
+1738017364975,345,www.fazenda.gov.br-1,200,OK,Grupo de Usuários 1-2,text,true,,241084,133,8,8,https://www.gov.br/receitafederal/pt-br,152,0,119
+1738017364321,1051,www.correios.com.br,200,OK,Grupo de Usuários 1-9,text,true,,137029,122,8,8,https://www.correios.com.br/,641,0,411
+1738017364845,533,www.fazenda.gov.br,200,OK,Grupo de Usuários 1-10,text,true,,241221,266,8,8,https://www.gov.br/receitafederal/pt-br,57,0,27
+1738017364845,57,www.fazenda.gov.br-0,302,Moved Temporarily,Grupo de Usuários 1-10,,true,,143,133,8,8,http://www.gov.br/receitafederal/pt-br,57,0,27
+1738017364904,474,www.fazenda.gov.br-1,200,OK,Grupo de Usuários 1-10,text,true,,241078,133,8,8,https://www.gov.br/receitafederal/pt-br,144,0,78
+1738017365051,345,www.gov.br,200,OK,Grupo de Usuários 1-1,text,true,,131608,231,8,8,https://www.gov.br/pt-br,39,0,0
+1738017365051,39,www.gov.br-0,301,Moved Permanently,Grupo de Usuários 1-1,,true,,993,113,8,8,https://www.gov.br/,39,0,0
+1738017365090,306,www.gov.br-1,200,OK,Grupo de Usuários 1-1,text,true,,130615,118,8,8,https://www.gov.br/pt-br,37,0,0
+1738017364530,867,www.fazenda.gov.br,200,OK,Grupo de Usuários 1-6,text,true,,241221,266,7,7,https://www.gov.br/receitafederal/pt-br,102,0,61
+1738017364530,102,www.fazenda.gov.br-0,302,Moved Temporarily,Grupo de Usuários 1-6,,true,,143,133,7,7,http://www.gov.br/receitafederal/pt-br,102,0,61
+1738017364634,763,www.fazenda.gov.br-1,200,OK,Grupo de Usuários 1-6,text,true,,241078,133,7,7,https://www.gov.br/receitafederal/pt-br,309,0,273
+1738017365321,102,www.gov.br,200,OK,Grupo de Usuários 1-2,text,true,,131610,231,7,7,https://www.gov.br/pt-br,31,0,0
+1738017365321,31,www.gov.br-0,301,Moved Permanently,Grupo de Usuários 1-2,,true,,995,113,7,7,https://www.gov.br/,31,0,0
+1738017365352,71,www.gov.br-1,200,OK,Grupo de Usuários 1-2,text,true,,130615,118,7,7,https://www.gov.br/pt-br,31,0,0
+1738017365084,340,www.gov.br,200,OK,Grupo de Usuários 1-4,text,true,,131614,231,7,7,https://www.gov.br/pt-br,37,0,0
+1738017365084,37,www.gov.br-0,301,Moved Permanently,Grupo de Usuários 1-4,,true,,993,113,7,7,https://www.gov.br/,37,0,0
+1738017365121,303,www.gov.br-1,200,OK,Grupo de Usuários 1-4,text,true,,130621,118,7,7,https://www.gov.br/pt-br,41,0,0
+1738017365088,388,www.gov.br,200,OK,Grupo de Usuários 1-8,text,true,,131614,231,5,5,https://www.gov.br/pt-br,33,0,0
+1738017365088,33,www.gov.br-0,301,Moved Permanently,Grupo de Usuários 1-8,,true,,993,113,5,5,https://www.gov.br/,33,0,0
+1738017365122,354,www.gov.br-1,200,OK,Grupo de Usuários 1-8,text,true,,130621,118,5,5,https://www.gov.br/pt-br,39,0,0
+1738017365379,192,www.gov.br,200,OK,Grupo de Usuários 1-10,text,true,,131614,231,4,4,https://www.gov.br/pt-br,27,0,0
+1738017365379,27,www.gov.br-0,301,Moved Permanently,Grupo de Usuários 1-10,,true,,993,113,4,4,https://www.gov.br/,27,0,0
+1738017365406,165,www.gov.br-1,200,OK,Grupo de Usuários 1-10,text,true,,130621,118,4,4,https://www.gov.br/pt-br,26,0,0
+1738017365397,283,www.gov.br,200,OK,Grupo de Usuários 1-6,text,true,,131608,231,3,3,https://www.gov.br/pt-br,33,0,0
+1738017365397,33,www.gov.br-0,301,Moved Permanently,Grupo de Usuários 1-6,,true,,993,113,3,3,https://www.gov.br/,33,0,0
+1738017365431,249,www.gov.br-1,200,OK,Grupo de Usuários 1-6,text,true,,130615,118,3,3,https://www.gov.br/pt-br,86,0,0
+1738017365373,730,www.fazenda.gov.br,200,OK,Grupo de Usuários 1-9,text,true,,241227,266,2,2,https://www.gov.br/receitafederal/pt-br,54,0,24
+1738017365373,54,www.fazenda.gov.br-0,302,Moved Temporarily,Grupo de Usuários 1-9,,true,,143,133,2,2,http://www.gov.br/receitafederal/pt-br,54,0,24
+1738017365429,674,www.fazenda.gov.br-1,200,OK,Grupo de Usuários 1-9,text,true,,241084,133,2,2,https://www.gov.br/receitafederal/pt-br,137,0,97
+1738017366105,303,www.gov.br,200,OK,Grupo de Usuários 1-9,text,true,,131608,231,2,2,https://www.gov.br/pt-br,33,0,0
+1738017366105,33,www.gov.br-0,301,Moved Permanently,Grupo de Usuários 1-9,,true,,993,113,2,2,https://www.gov.br/,33,0,0
+1738017366139,269,www.gov.br-1,200,OK,Grupo de Usuários 1-9,text,true,,130615,118,2,2,https://www.gov.br/pt-br,77,0,0
+1738017364446,9906,www.fazenda.gov.br,200,OK,Grupo de Usuários 1-5,text,true,,241227,266,1,1,https://www.gov.br/receitafederal/pt-br,9187,0,9084
+1738017364446,9187,www.fazenda.gov.br-0,302,Moved Temporarily,Grupo de Usuários 1-5,,true,,143,133,1,1,http://www.gov.br/receitafederal/pt-br,9187,0,9084
+1738017373635,717,www.fazenda.gov.br-1,200,OK,Grupo de Usuários 1-5,text,true,,241084,133,1,1,https://www.gov.br/receitafederal/pt-br,305,0,208
+1738017374354,305,www.gov.br,200,OK,Grupo de Usuários 1-5,text,true,,131610,231,1,1,https://www.gov.br/pt-br,80,0,0
+1738017374354,80,www.gov.br-0,301,Moved Permanently,Grupo de Usuários 1-5,,true,,995,113,1,1,https://www.gov.br/,80,0,0
+1738017374434,225,www.gov.br-1,200,OK,Grupo de Usuários 1-5,text,true,,130615,118,1,1,https://www.gov.br/pt-br,121,0,0
